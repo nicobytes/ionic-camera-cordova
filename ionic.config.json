@@ -1,5 +1,7 @@
 {
   "name": "ionic-camera-cordova",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
