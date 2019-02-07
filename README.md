@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/HnbiiE6.png)
+![Imgur](https://i.imgur.com/HnbiiE6.png)
 
 ````
 ionic integrations enable cordova
